@@ -142,18 +142,13 @@ const styles = StyleSheet.create({
     paddingHorizontal: 20,
     flexDirection: "row",
     alignItems: "center",
-    padding: 2,
+    padding: 10,
     marginVertical: 10,
   },
   textInput: {
     flex: 1,
     paddingHorizontal: 10,
     fontFamily: fonts.Light,
-  },
-  forgotPasswordText: {
-    textAlign: "right",
-    color: colors.secondary,
-    marginVertical: 10,
   },
   registerButtonWrapper: {
     backgroundColor: colors.primary,
